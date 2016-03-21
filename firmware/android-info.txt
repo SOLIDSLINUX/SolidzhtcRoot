@@ -1,0 +1,6 @@
+modelid: PO6822000
+cidnum: HTCCN701
+mainver: 1.21.709.3
+btype:1
+aareport:1
+hbootpreupdate:3
